@@ -5,3 +5,4 @@ The next project has the aim to apply Machine Learning techniques, in order to i
 - Support Vector Machine (SVM). 
 - XGBoost. 
 The code can be run in any computer with the correct libraries pre installed (e.g., scikit-learn, XGBoost, etc.) and making adjustments to the data file paths to suit your local environment.
+![My Image](Pictures/WorkFlow.png)
